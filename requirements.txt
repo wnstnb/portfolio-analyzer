@@ -1,0 +1,7 @@
+pandas
+numpy
+riskfolio-lib
+yfinance
+matplotlib==3.7.3
+Jinja2
+tqdm
